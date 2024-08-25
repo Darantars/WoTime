@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Darantar\\source\\repos\\WoTime\\WoTime\\",
-  "Documents": [],
+  "WorkspaceRootPath": "W:\\PetProjects\\WoTime\\WoTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D0C99-9AE0-431C-8AE6-0D058390352B}|WoTime.Desktop\\WoTime.Desktop.csproj|w:\\petprojects\\wotime\\wotime\\wotime.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D0C99-9AE0-431C-8AE6-0D058390352B}|WoTime.Desktop\\WoTime.Desktop.csproj|solutionrelative:wotime.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|w:\\petprojects\\wotime\\wotime\\wotime\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5509F8A7-487E-42E7-BAD4-4B2A1D269337}|WoTime\\WoTime.csproj|solutionrelative:wotime\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D64D52-DAB3-434C-B15E-78CC63A3D5AA}|WoTime.Android\\WoTime.Android.csproj|w:\\petprojects\\wotime\\wotime\\wotime.android\\wotime.android.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61D64D52-DAB3-434C-B15E-78CC63A3D5AA}|WoTime.Android\\WoTime.Android.csproj|solutionrelative:wotime.android\\wotime.android.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D0C99-9AE0-431C-8AE6-0D058390352B}|WoTime.Desktop\\WoTime.Desktop.csproj|w:\\petprojects\\wotime\\wotime\\wotime.desktop\\wotime.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A1D0C99-9AE0-431C-8AE6-0D058390352B}|WoTime.Desktop\\WoTime.Desktop.csproj|solutionrelative:wotime.desktop\\wotime.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,27 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\App.axaml.cs",
+              "RelativeDocumentMoniker": "WoTime\\App.axaml.cs",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\App.axaml.cs",
+              "RelativeToolTip": "WoTime\\App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:41:42.36Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.axaml",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\App.axaml",
+              "RelativeDocumentMoniker": "WoTime\\App.axaml",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\App.axaml",
+              "RelativeToolTip": "WoTime\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T13:41:32.803Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WoTime.Android",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Android\\WoTime.Android.csproj",
+              "RelativeDocumentMoniker": "WoTime.Android\\WoTime.Android.csproj",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Android\\WoTime.Android.csproj",
+              "RelativeToolTip": "WoTime.Android\\WoTime.Android.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T06:31:34.877Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WoTime.Desktop",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Desktop\\WoTime.Desktop.csproj",
+              "RelativeDocumentMoniker": "WoTime.Desktop\\WoTime.Desktop.csproj",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Desktop\\WoTime.Desktop.csproj",
+              "RelativeToolTip": "WoTime.Desktop\\WoTime.Desktop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T06:28:25.711Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "WoTime\\Views\\MainWindow.axaml",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\Views\\MainWindow.axaml*",
+              "RelativeToolTip": "WoTime\\Views\\MainWindow.axaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T06:26:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewLocator.cs",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\ViewLocator.cs",
+              "RelativeDocumentMoniker": "WoTime\\ViewLocator.cs",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\ViewLocator.cs",
+              "RelativeToolTip": "WoTime\\ViewLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:26:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "WoTime.Desktop\\Program.cs",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime.Desktop\\Program.cs",
+              "RelativeToolTip": "WoTime.Desktop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:25:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "WoTime\\Views\\MainView.axaml",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\Views\\MainView.axaml",
+              "RelativeToolTip": "WoTime\\Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T06:24:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WoTime\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "W:\\PetProjects\\WoTime\\WoTime\\WoTime\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WoTime\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:24:43.73Z",
+              "EditorCaption": ""
             }
           ]
         }
